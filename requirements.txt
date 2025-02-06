@@ -1,4 +1,4 @@
-pandas
+tensorflow
 streamlit
 numpy
-scikit-learn
+pillow
